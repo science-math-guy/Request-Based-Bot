@@ -1,0 +1,24 @@
+{
+  "name": "Request-Based-Bot",
+  "version": "1.0.0",
+  "description": "A Request-Based Bot for Grepolis.com.",
+  "main": "robot.js",
+  "scripts": {
+    "start": "node robot.js",
+    "devStart": "nodemon robot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/science-math-guy/Request-Based-Bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/science-math-guy/Request-Based-Bot/issues"
+  },
+  "homepage": "https://github.com/science-math-guy/Request-Based-Bot#readme",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
